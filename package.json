@@ -1,0 +1,28 @@
+{
+  "name": "load-test-next-trace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "load-test": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "tknickman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "kelonio": "^0.10.0",
+    "next": "link:/Users/knickman/Developer/vercel/development/next.js/packages/next",
+    "react": "link:/Users/knickman/Developer/vercel/development/next.js/node_modules/react",
+    "react-dom": "link:/Users/knickman/Developer/vercel/development/next.js/node_modules/react-dom",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
